@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RobotCar</string>
+    <string name="button1_txt">Connect</string>
+    <string name="buttonStart_txt">Start</string>
+    <string name="buttonForward_txt">Forward</string>
+    <string name="buttonBackward_txt">Backward</string>
+    <string name="buttonLeft_txt">Left</string>
+    <string name="buttonRight_txt">Right</string>
+    <string name="buttonStop_txt">Stop</string>
+</resources>

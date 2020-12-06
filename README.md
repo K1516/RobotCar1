@@ -9,4 +9,6 @@ Työssä käytettynä on opiskelijabudjettiin sopinut robottiauton aloituspakkau
 Työn ohjelmointiin tarvitaan android studio sovelluksen luontiin sekä raspberryllä käytetään pythonia, siihen tarvittavat asennukset raspberryyn pitää tehdä tietenkin. 
 
 
+#### Auton liikkumiseen tarkoitettu tiedosto Raspberrylle löytyy tiedostosta: [toimiva.py]()
+
 Lisätietoja löytyy [wikisivulta](https://github.com/K1516/RobotCar1/wiki)

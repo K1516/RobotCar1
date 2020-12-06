@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String clientId = MqttClient.generateClientId();
                 final MqttAndroidClient client =
-                        new MqttAndroidClient(MainActivity.this, "tcp://192.168.137.152:1883",
+                        new MqttAndroidClient(MainActivity.this, "tcp://192.168.1.105:1883",
                                 clientId);
 
                 try {
